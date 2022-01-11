@@ -30,3 +30,12 @@
 * Workflow techtrends-dockerhub.yml
 * CI-github-action screenshot
 * CI-dockerhub screenshot
+
+# Step 4 Kubernetes Declarative Manifests
+
+## Tasks 
+* Deploy Kubernetes Cluster using k3s
+* K8S-nodes screenshot
+* kubernetes manifests
+* Deploy Kubernetes Manifests
+* Kubernetes-Declarative-Manifests screenshot
