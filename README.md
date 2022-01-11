@@ -23,3 +23,10 @@
 
 ## Correction
 * Dockerfile corrected so that `docker build -t techtrends -f ./Dockerfile .` works
+
+# Step3 Continuous Integration with GitHub Actions
+
+## Tasks 
+* Workflow techtrends-dockerhub.yml
+* CI-github-action screenshot
+* CI-dockerhub screenshot
