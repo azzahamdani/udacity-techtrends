@@ -39,3 +39,7 @@
 * kubernetes manifests
 * Deploy Kubernetes Manifests
 * Kubernetes-Declarative-Manifests screenshot
+
+# Step5 Helm Charts
+* Helm Charts 
+* values.yaml values-staging.yaml values-prod.yaml
