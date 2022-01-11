@@ -45,3 +45,12 @@
 ## Tasks 
 * Helm Charts 
 * values.yaml values-staging.yaml values-prod.yaml
+
+# Step6 Continuous Delivery with ArgoCD
+
+## Task
+* Deploy ArgoCD
+* Screenshot of ArgoCD UI
+* ArgoCD Applications for staging and prod
+* Deploy ArgoCD Applications
+* Screenshot of ArgoCD Application Deployed
